@@ -8,9 +8,10 @@
     "type": "git",
     "url": "http://github.com/michaelord/libs.git"
   },
-  "devDependencies": {
-    "tinycolor2": "^1.4.1"
-  },
+  "devDependencies": {},
   "author": "michaelord",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "tinycolor2": "^1.4.1"
+  }
 }
