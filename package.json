@@ -1,0 +1,16 @@
+{
+  "name": "libs",
+  "private": true,
+  "description": "...",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/michaelord/libs.git"
+  },
+  "devDependencies": {
+    "tinycolor2": "^1.4.1"
+  },
+  "author": "michaelord",
+  "keywords": []
+}
