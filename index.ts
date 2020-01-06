@@ -1,8 +1,10 @@
-export {generateGUID} from './generateGUID';
-export {noop} from './noop';
 export {canUseDOM} from './canUseDOM';
-export {sleep} from './sleep';
+export {generateGUID} from './generateGUID';
 export {getAltColour} from './getAltColour';
-export {replaceTokens} from './replaceTokens';
 export {getModifiers} from './getModifiers';
+export {noop} from './noop';
+export {generateChars, generateLorem, generateWords, Placeholder} from './Placeholder';
+export {replaceTokens} from './replaceTokens';
 export {sentenceCase} from './sentenceCase';
+export {sleep} from './sleep';
+export {slugify} from './slugify';

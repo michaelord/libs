@@ -1,17 +1,19 @@
 {
-  "name": "libs",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/libs.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "tinycolor2": "^1.4.1"
-  }
+	"name": "libs",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/libs.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"tinycolor2": "^1.4.1",
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/types": "http://github.com/michaelord/types.git"
+	}
 }
